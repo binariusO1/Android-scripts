@@ -1,4 +1,4 @@
-package com.binario.pizzacalc;
+package com.YOUR.PACKAGE;
 
 import android.content.res.Resources;
 
